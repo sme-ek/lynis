@@ -1,0 +1,1 @@
+egrep -o "to=<(.*)>, .* Connection timed out" /var/log/maillog | sed -e "s/to=<\(.*\)>.*/\1/"

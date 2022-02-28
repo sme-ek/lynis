@@ -1,0 +1,2 @@
+dnf install -y mutt
+

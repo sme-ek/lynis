@@ -1,0 +1,1 @@
+dnf install -y https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.2.2.rpm
